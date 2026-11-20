@@ -1,0 +1,448 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+'../dnd/monstres.php?vo=aarakocra'	Aarakocra
+'../dnd/monstres.php?vo=aboleth''../dnd/monstres.php?vo=aboleth'	Aboleth
+'../dnd/monstres.php?vo=abominable-yeti''../dnd/monstres.php?vo=abominable-yeti'	Abominable Yeti
+'../dnd/monstres.php?vo=acolyte''../dnd/monstres.php?vo=acolyte'	Acolyte
+'../dnd/monstres.php?vo=adult-black-dragon''../dnd/monstres.php?vo=adult-black-dragon'	Adult Black Dragon
+'../dnd/monstres.php?vo=adult-blue-dracolich''../dnd/monstres.php?vo=adult-blue-dracolich'	Adult Blue Dracolich
+'../dnd/monstres.php?vo=adult-blue-dragon''../dnd/monstres.php?vo=adult-blue-dragon'	Adult Blue Dragon
+'../dnd/monstres.php?vo=adult-brass-dragon''../dnd/monstres.php?vo=adult-brass-dragon'	Adult Brass Dragon
+'../dnd/monstres.php?vo=adult-bronze-dragon''../dnd/monstres.php?vo=adult-bronze-dragon'	Adult Bronze Dragon
+'../dnd/monstres.php?vo=adult-copper-dragon''../dnd/monstres.php?vo=adult-copper-dragon'	Adult Copper Dragon
+'../dnd/monstres.php?vo=adult-gold-dragon''../dnd/monstres.php?vo=adult-gold-dragon'	Adult Gold Dragon
+'../dnd/monstres.php?vo=adult-green-dragon''../dnd/monstres.php?vo=adult-green-dragon'	Adult Green Dragon
+'../dnd/monstres.php?vo=adult-red-dragon''../dnd/monstres.php?vo=adult-red-dragon'	Adult Red Dragon
+'../dnd/monstres.php?vo=adult-silver-dragon''../dnd/monstres.php?vo=adult-silver-dragon'	Adult Silver Dragon
+'../dnd/monstres.php?vo=adult-white-dragon''../dnd/monstres.php?vo=adult-white-dragon'	Adult White Dragon
+'../dnd/monstres.php?vo=air-elemental''../dnd/monstres.php?vo=air-elemental'	Air Elemental
+'../dnd/monstres.php?vo=allosaurus''../dnd/monstres.php?vo=allosaurus'	Allosaurus
+'../dnd/monstres.php?vo=ancient-black-dragon''../dnd/monstres.php?vo=ancient-black-dragon'	Ancient Black Dragon
+'../dnd/monstres.php?vo=ancient-blue-dragon''../dnd/monstres.php?vo=ancient-blue-dragon'	Ancient Blue Dragon
+'../dnd/monstres.php?vo=ancient-brass-dragon''../dnd/monstres.php?vo=ancient-brass-dragon'	Ancient Brass Dragon
+'../dnd/monstres.php?vo=ancient-bronze-dragon''../dnd/monstres.php?vo=ancient-bronze-dragon'	Ancient Bronze Dragon
+'../dnd/monstres.php?vo=ancient-copper-dragon''../dnd/monstres.php?vo=ancient-copper-dragon'	Ancient Copper Dragon
+'../dnd/monstres.php?vo=ancient-gold-dragon''../dnd/monstres.php?vo=ancient-gold-dragon'	Ancient Gold Dragon
+'../dnd/monstres.php?vo=ancient-green-dragon''../dnd/monstres.php?vo=ancient-green-dragon'	Ancient Green Dragon
+'../dnd/monstres.php?vo=ancient-red-dragon''../dnd/monstres.php?vo=ancient-red-dragon'	Ancient Red Dragon
+'../dnd/monstres.php?vo=ancient-silver-dragon''../dnd/monstres.php?vo=ancient-silver-dragon'	Ancient Silver Dragon
+'../dnd/monstres.php?vo=ancient-white-dragon''../dnd/monstres.php?vo=ancient-white-dragon'	Ancient White Dragon
+'../dnd/monstres.php?vo=androsphinx''../dnd/monstres.php?vo=androsphinx'	Androsphinx
+'../dnd/monstres.php?vo=animated-armor''../dnd/monstres.php?vo=animated-armor'	Animated Armor
+'../dnd/monstres.php?vo=ankheg''../dnd/monstres.php?vo=ankheg'	Ankheg
+'../dnd/monstres.php?vo=ankylosaurus''../dnd/monstres.php?vo=ankylosaurus'	Ankylosaurus
+'../dnd/monstres.php?vo=ape''../dnd/monstres.php?vo=ape'	Ape
+'../dnd/monstres.php?vo=arcanaloth''../dnd/monstres.php?vo=arcanaloth'	Arcanaloth
+'../dnd/monstres.php?vo=archmage''../dnd/monstres.php?vo=archmage'	Archmage
+'../dnd/monstres.php?vo=assassin''../dnd/monstres.php?vo=assassin'	Assassin
+'../dnd/monstres.php?vo=awakened-shrub''../dnd/monstres.php?vo=awakened-shrub'	Awakened Shrub
+'../dnd/monstres.php?vo=awakened-tree''../dnd/monstres.php?vo=awakened-tree'	Awakened Tree
+'../dnd/monstres.php?vo=axe-beak''../dnd/monstres.php?vo=axe-beak'	Axe Beak
+'../dnd/monstres.php?vo=azer''../dnd/monstres.php?vo=azer'	Azer
+'../dnd/monstres.php?vo=baboon''../dnd/monstres.php?vo=baboon'	Baboon
+'../dnd/monstres.php?vo=badger''../dnd/monstres.php?vo=badger'	Badger
+'../dnd/monstres.php?vo=balor''../dnd/monstres.php?vo=balor'	Balor
+'../dnd/monstres.php?vo=bandit''../dnd/monstres.php?vo=bandit'	Bandit
+'../dnd/monstres.php?vo=bandit-captain''../dnd/monstres.php?vo=bandit-captain'	Bandit Captain
+'../dnd/monstres.php?vo=banshee''../dnd/monstres.php?vo=banshee'	Banshee
+'../dnd/monstres.php?vo=barbed-devil''../dnd/monstres.php?vo=barbed-devil'	Barbed Devil
+'../dnd/monstres.php?vo=barlgura''../dnd/monstres.php?vo=barlgura'	Barlgura
+'../dnd/monstres.php?vo=basilisk''../dnd/monstres.php?vo=basilisk'	Basilisk
+'../dnd/monstres.php?vo=bat''../dnd/monstres.php?vo=bat'	Bat
+'../dnd/monstres.php?vo=bearded-devil''../dnd/monstres.php?vo=bearded-devil'	Bearded Devil
+'../dnd/monstres.php?vo=behir''../dnd/monstres.php?vo=behir'	Behir
+'../dnd/monstres.php?vo=beholder''../dnd/monstres.php?vo=beholder'	Beholder
+'../dnd/monstres.php?vo=beholder-zombie''../dnd/monstres.php?vo=beholder-zombie'	Beholder Zombie
+'../dnd/monstres.php?vo=berserker''../dnd/monstres.php?vo=berserker'	Berserker
+'../dnd/monstres.php?vo=black-bear''../dnd/monstres.php?vo=black-bear'	Black Bear
+'../dnd/monstres.php?vo=black-dragon-wyrmling''../dnd/monstres.php?vo=black-dragon-wyrmling'	Black Dragon Wyrmling
+'../dnd/monstres.php?vo=black-pudding''../dnd/monstres.php?vo=black-pudding'	Black Pudding
+'../dnd/monstres.php?vo=blink-dog''../dnd/monstres.php?vo=blink-dog'	Blink Dog
+'../dnd/monstres.php?vo=blood-hawk''../dnd/monstres.php?vo=blood-hawk'	Blood Hawk
+'../dnd/monstres.php?vo=blue-dragon-wyrmling''../dnd/monstres.php?vo=blue-dragon-wyrmling'	Blue Dragon Wyrmling
+'../dnd/monstres.php?vo=blue-slaad''../dnd/monstres.php?vo=blue-slaad'	Blue Slaad
+'../dnd/monstres.php?vo=boar''../dnd/monstres.php?vo=boar'	Boar
+'../dnd/monstres.php?vo=bone-devil''../dnd/monstres.php?vo=bone-devil'	Bone Devil
+'../dnd/monstres.php?vo=bone-naga''../dnd/monstres.php?vo=bone-naga'	Bone Naga
+'../dnd/monstres.php?vo=brass-dragon-wyrmling''../dnd/monstres.php?vo=brass-dragon-wyrmling'	Brass Dragon Wyrmling
+'../dnd/monstres.php?vo=bronze-dragon-wyrmling''../dnd/monstres.php?vo=bronze-dragon-wyrmling'	Bronze Dragon Wyrmling
+'../dnd/monstres.php?vo=brown-bear''../dnd/monstres.php?vo=brown-bear'	Brown Bear
+'../dnd/monstres.php?vo=bugbear''../dnd/monstres.php?vo=bugbear'	Bugbear
+'../dnd/monstres.php?vo=bugbear-chief''../dnd/monstres.php?vo=bugbear-chief'	Bugbear Chief
+'../dnd/monstres.php?vo=bulette''../dnd/monstres.php?vo=bulette'	Bulette
+'../dnd/monstres.php?vo=bullywug''../dnd/monstres.php?vo=bullywug'	Bullywug
+'../dnd/monstres.php?vo=cambion''../dnd/monstres.php?vo=cambion'	Cambion
+'../dnd/monstres.php?vo=camel''../dnd/monstres.php?vo=camel'	Camel
+'../dnd/monstres.php?vo=carrion-crawler''../dnd/monstres.php?vo=carrion-crawler'	Carrion Crawler
+'../dnd/monstres.php?vo=cat''../dnd/monstres.php?vo=cat'	Cat
+'../dnd/monstres.php?vo=centaur''../dnd/monstres.php?vo=centaur'	Centaur
+'../dnd/monstres.php?vo=chain-devil''../dnd/monstres.php?vo=chain-devil'	Chain Devil
+'../dnd/monstres.php?vo=chasme''../dnd/monstres.php?vo=chasme'	Chasme
+'../dnd/monstres.php?vo=chimera''../dnd/monstres.php?vo=chimera'	Chimera
+'../dnd/monstres.php?vo=chuul''../dnd/monstres.php?vo=chuul'	Chuul
+'../dnd/monstres.php?vo=clay-golem''../dnd/monstres.php?vo=clay-golem'	Clay Golem
+'../dnd/monstres.php?vo=cloaker''../dnd/monstres.php?vo=cloaker'	Cloaker
+'../dnd/monstres.php?vo=cloud-giant''../dnd/monstres.php?vo=cloud-giant'	Cloud Giant
+'../dnd/monstres.php?vo=cockatrice''../dnd/monstres.php?vo=cockatrice'	Cockatrice
+'../dnd/monstres.php?vo=commoner''../dnd/monstres.php?vo=commoner'	Commoner
+'../dnd/monstres.php?vo=constrictor-snake''../dnd/monstres.php?vo=constrictor-snake'	Constrictor Snake
+'../dnd/monstres.php?vo=copper-dragon-wyrmling''../dnd/monstres.php?vo=copper-dragon-wyrmling'	Copper Dragon Wyrmling
+'../dnd/monstres.php?vo=couatl''../dnd/monstres.php?vo=couatl'	Couatl
+'../dnd/monstres.php?vo=crab''../dnd/monstres.php?vo=crab'	Crab
+'../dnd/monstres.php?vo=crawling-claw''../dnd/monstres.php?vo=crawling-claw'	Crawling Claw
+'../dnd/monstres.php?vo=crocodile''../dnd/monstres.php?vo=crocodile'	Crocodile
+'../dnd/monstres.php?vo=cult-fanatic''../dnd/monstres.php?vo=cult-fanatic'	Cult Fanatic
+'../dnd/monstres.php?vo=cultist''../dnd/monstres.php?vo=cultist'	Cultist
+'../dnd/monstres.php?vo=cyclops''../dnd/monstres.php?vo=cyclops'	Cyclops
+'../dnd/monstres.php?vo=dao''../dnd/monstres.php?vo=dao'	Dao
+'../dnd/monstres.php?vo=darkmantle''../dnd/monstres.php?vo=darkmantle'	Darkmantle
+'../dnd/monstres.php?vo=death-dog''../dnd/monstres.php?vo=death-dog'	Death Dog
+'../dnd/monstres.php?vo=death-knight''../dnd/monstres.php?vo=death-knight'	Death Knight
+'../dnd/monstres.php?vo=death-slaad''../dnd/monstres.php?vo=death-slaad'	Death Slaad
+'../dnd/monstres.php?vo=death-tyrant''../dnd/monstres.php?vo=death-tyrant'	Death Tyrant
+'../dnd/monstres.php?vo=deep-gnome-svirfneblin''../dnd/monstres.php?vo=deep-gnome-svirfneblin'	Deep Gnome (Svirfneblin)
+'../dnd/monstres.php?vo=deer''../dnd/monstres.php?vo=deer'	Deer
+'../dnd/monstres.php?vo=demilich''../dnd/monstres.php?vo=demilich'	Demilich
+'../dnd/monstres.php?vo=deva''../dnd/monstres.php?vo=deva'	Deva
+'../dnd/monstres.php?vo=dire-wolf''../dnd/monstres.php?vo=dire-wolf'	Dire Wolf
+'../dnd/monstres.php?vo=displacer-beast''../dnd/monstres.php?vo=displacer-beast'	Displacer Beast
+'../dnd/monstres.php?vo=djinni''../dnd/monstres.php?vo=djinni'	Djinni
+'../dnd/monstres.php?vo=doppelganger''../dnd/monstres.php?vo=doppelganger'	Doppelganger
+'../dnd/monstres.php?vo=draft-horse''../dnd/monstres.php?vo=draft-horse'	Draft Horse
+'../dnd/monstres.php?vo=dragon-turtle''../dnd/monstres.php?vo=dragon-turtle'	Dragon Turtle
+'../dnd/monstres.php?vo=dretch''../dnd/monstres.php?vo=dretch'	Dretch
+'../dnd/monstres.php?vo=drider''../dnd/monstres.php?vo=drider'	Drider
+'../dnd/monstres.php?vo=drow''../dnd/monstres.php?vo=drow'	Drow
+'../dnd/monstres.php?vo=drow-elite-warrior''../dnd/monstres.php?vo=drow-elite-warrior'	Drow Elite Warrior
+'../dnd/monstres.php?vo=drow-mage''../dnd/monstres.php?vo=drow-mage'	Drow Mage
+'../dnd/monstres.php?vo=drow-priestess-of-lolth''../dnd/monstres.php?vo=drow-priestess-of-lolth'	Drow Priestess of Lolth
+'../dnd/monstres.php?vo=druid''../dnd/monstres.php?vo=druid'	Druid
+'../dnd/monstres.php?vo=dryad''../dnd/monstres.php?vo=dryad'	Dryad
+'../dnd/monstres.php?vo=duergar''../dnd/monstres.php?vo=duergar'	Duergar
+'../dnd/monstres.php?vo=duodrone''../dnd/monstres.php?vo=duodrone'	Duodrone
+'../dnd/monstres.php?vo=dust-mephit''../dnd/monstres.php?vo=dust-mephit'	Dust Mephit
+'../dnd/monstres.php?vo=eagle''../dnd/monstres.php?vo=eagle'	Eagle
+'../dnd/monstres.php?vo=earth-elemental''../dnd/monstres.php?vo=earth-elemental'	Earth Elemental
+'../dnd/monstres.php?vo=efreeti''../dnd/monstres.php?vo=efreeti'	Efreeti
+'../dnd/monstres.php?vo=elephant''../dnd/monstres.php?vo=elephant'	Elephant
+'../dnd/monstres.php?vo=elk''../dnd/monstres.php?vo=elk'	Elk
+'../dnd/monstres.php?vo=empyrean''../dnd/monstres.php?vo=empyrean'	Empyrean
+'../dnd/monstres.php?vo=erinyes''../dnd/monstres.php?vo=erinyes'	Erinyes
+'../dnd/monstres.php?vo=ettercap''../dnd/monstres.php?vo=ettercap'	Ettercap
+'../dnd/monstres.php?vo=ettin''../dnd/monstres.php?vo=ettin'	Ettin
+'../dnd/monstres.php?vo=faerie-dragon''../dnd/monstres.php?vo=faerie-dragon'	Faerie Dragon
+'../dnd/monstres.php?vo=fire-elemental''../dnd/monstres.php?vo=fire-elemental'	Fire Elemental
+'../dnd/monstres.php?vo=fire-giant''../dnd/monstres.php?vo=fire-giant'	Fire Giant
+'../dnd/monstres.php?vo=fire-snake''../dnd/monstres.php?vo=fire-snake'	Fire Snake
+'../dnd/monstres.php?vo=flameskull''../dnd/monstres.php?vo=flameskull'	Flameskull
+'../dnd/monstres.php?vo=flesh-golem''../dnd/monstres.php?vo=flesh-golem'	Flesh Golem
+'../dnd/monstres.php?vo=flumph''../dnd/monstres.php?vo=flumph'	Flumph
+'../dnd/monstres.php?vo=flying-snake''../dnd/monstres.php?vo=flying-snake'	Flying Snake
+'../dnd/monstres.php?vo=flying-sword''../dnd/monstres.php?vo=flying-sword'	Flying Sword
+'../dnd/monstres.php?vo=fomorian''../dnd/monstres.php?vo=fomorian'	Fomorian
+'../dnd/monstres.php?vo=frog''../dnd/monstres.php?vo=frog'	Frog
+'../dnd/monstres.php?vo=frost-giant''../dnd/monstres.php?vo=frost-giant'	Frost Giant
+'../dnd/monstres.php?vo=galeb-duhr''../dnd/monstres.php?vo=galeb-duhr'	Galeb Duhr
+'../dnd/monstres.php?vo=gargoyle''../dnd/monstres.php?vo=gargoyle'	Gargoyle
+'../dnd/monstres.php?vo=gas-spore''../dnd/monstres.php?vo=gas-spore'	Gas Spore
+'../dnd/monstres.php?vo=gelatinous-cube''../dnd/monstres.php?vo=gelatinous-cube'	Gelatinous Cube
+'../dnd/monstres.php?vo=ghast''../dnd/monstres.php?vo=ghast'	Ghast
+'../dnd/monstres.php?vo=ghost''../dnd/monstres.php?vo=ghost'	Ghost
+'../dnd/monstres.php?vo=ghoul''../dnd/monstres.php?vo=ghoul'	Ghoul
+'../dnd/monstres.php?vo=giant-ape''../dnd/monstres.php?vo=giant-ape'	Giant Ape
+'../dnd/monstres.php?vo=giant-badger''../dnd/monstres.php?vo=giant-badger'	Giant Badger
+'../dnd/monstres.php?vo=giant-bat''../dnd/monstres.php?vo=giant-bat'	Giant Bat
+'../dnd/monstres.php?vo=giant-boar''../dnd/monstres.php?vo=giant-boar'	Giant Boar
+'../dnd/monstres.php?vo=giant-centipede''../dnd/monstres.php?vo=giant-centipede'	Giant Centipede
+'../dnd/monstres.php?vo=giant-constrictor-snake''../dnd/monstres.php?vo=giant-constrictor-snake'	Giant Constrictor Snake
+'../dnd/monstres.php?vo=giant-crab''../dnd/monstres.php?vo=giant-crab'	Giant Crab
+'../dnd/monstres.php?vo=giant-crocodile''../dnd/monstres.php?vo=giant-crocodile'	Giant Crocodile
+'../dnd/monstres.php?vo=giant-eagle''../dnd/monstres.php?vo=giant-eagle'	Giant Eagle
+'../dnd/monstres.php?vo=giant-elk''../dnd/monstres.php?vo=giant-elk'	Giant Elk
+'../dnd/monstres.php?vo=giant-fire-beetle''../dnd/monstres.php?vo=giant-fire-beetle'	Giant Fire Beetle
+'../dnd/monstres.php?vo=giant-frog''../dnd/monstres.php?vo=giant-frog'	Giant Frog
+'../dnd/monstres.php?vo=giant-goat''../dnd/monstres.php?vo=giant-goat'	Giant Goat
+'../dnd/monstres.php?vo=giant-hyena''../dnd/monstres.php?vo=giant-hyena'	Giant Hyena
+'../dnd/monstres.php?vo=giant-lizard''../dnd/monstres.php?vo=giant-lizard'	Giant Lizard
+'../dnd/monstres.php?vo=giant-octopus''../dnd/monstres.php?vo=giant-octopus'	Giant Octopus
+'../dnd/monstres.php?vo=giant-owl''../dnd/monstres.php?vo=giant-owl'	Giant Owl
+'../dnd/monstres.php?vo=giant-poisonous-snake''../dnd/monstres.php?vo=giant-poisonous-snake'	Giant Poisonous Snake
+'../dnd/monstres.php?vo=giant-rat''../dnd/monstres.php?vo=giant-rat'	Giant Rat
+'../dnd/monstres.php?vo=giant-scorpion''../dnd/monstres.php?vo=giant-scorpion'	Giant Scorpion
+'../dnd/monstres.php?vo=giant-sea-horse''../dnd/monstres.php?vo=giant-sea-horse'	Giant Sea Horse
+'../dnd/monstres.php?vo=giant-shark''../dnd/monstres.php?vo=giant-shark'	Giant Shark
+'../dnd/monstres.php?vo=giant-spider''../dnd/monstres.php?vo=giant-spider'	Giant Spider
+'../dnd/monstres.php?vo=giant-toad''../dnd/monstres.php?vo=giant-toad'	Giant Toad
+'../dnd/monstres.php?vo=giant-vulture''../dnd/monstres.php?vo=giant-vulture'	Giant Vulture
+'../dnd/monstres.php?vo=giant-wasp''../dnd/monstres.php?vo=giant-wasp'	Giant Wasp
+'../dnd/monstres.php?vo=giant-weasel''../dnd/monstres.php?vo=giant-weasel'	Giant Weasel
+'../dnd/monstres.php?vo=giant-wolf-spider''../dnd/monstres.php?vo=giant-wolf-spider'	Giant Wolf Spider
+'../dnd/monstres.php?vo=gibbering-mouther''../dnd/monstres.php?vo=gibbering-mouther'	Gibbering Mouther
+'../dnd/monstres.php?vo=githyanki-knight''../dnd/monstres.php?vo=githyanki-knight'	Githyanki Knight
+'../dnd/monstres.php?vo=githyanki-warrior''../dnd/monstres.php?vo=githyanki-warrior'	Githyanki Warrior
+'../dnd/monstres.php?vo=githzerai-monk''../dnd/monstres.php?vo=githzerai-monk'	Githzerai Monk
+'../dnd/monstres.php?vo=githzerai-zerth''../dnd/monstres.php?vo=githzerai-zerth'	Githzerai Zerth
+'../dnd/monstres.php?vo=glabrezu''../dnd/monstres.php?vo=glabrezu'	Glabrezu
+'../dnd/monstres.php?vo=gladiator''../dnd/monstres.php?vo=gladiator'	Gladiator
+'../dnd/monstres.php?vo=gnoll''../dnd/monstres.php?vo=gnoll'	Gnoll
+'../dnd/monstres.php?vo=gnoll-fang-of-yeenoghu''../dnd/monstres.php?vo=gnoll-fang-of-yeenoghu'	Gnoll Fang of Yeenoghu
+'../dnd/monstres.php?vo=gnoll-pack-lord''../dnd/monstres.php?vo=gnoll-pack-lord'	Gnoll Pack Lord
+'../dnd/monstres.php?vo=goat''../dnd/monstres.php?vo=goat'	Goat
+'../dnd/monstres.php?vo=goblin''../dnd/monstres.php?vo=goblin'	Goblin
+'../dnd/monstres.php?vo=goblin-boss''../dnd/monstres.php?vo=goblin-boss'	Goblin Boss
+'../dnd/monstres.php?vo=gold-dragon-wyrmling''../dnd/monstres.php?vo=gold-dragon-wyrmling'	Gold Dragon Wyrmling
+'../dnd/monstres.php?vo=gorgon''../dnd/monstres.php?vo=gorgon'	Gorgon
+'../dnd/monstres.php?vo=goristro''../dnd/monstres.php?vo=goristro'	Goristro
+'../dnd/monstres.php?vo=gray-ooze''../dnd/monstres.php?vo=gray-ooze'	Gray Ooze
+'../dnd/monstres.php?vo=gray-slaad''../dnd/monstres.php?vo=gray-slaad'	Gray Slaad
+'../dnd/monstres.php?vo=green-dragon-wyrmling''../dnd/monstres.php?vo=green-dragon-wyrmling'	Green Dragon Wyrmling
+'../dnd/monstres.php?vo=green-hag''../dnd/monstres.php?vo=green-hag'	Green Hag
+'../dnd/monstres.php?vo=green-slaad''../dnd/monstres.php?vo=green-slaad'	Green Slaad
+'../dnd/monstres.php?vo=grell''../dnd/monstres.php?vo=grell'	Grell
+'../dnd/monstres.php?vo=grick''../dnd/monstres.php?vo=grick'	Grick
+'../dnd/monstres.php?vo=grick-alpha''../dnd/monstres.php?vo=grick-alpha'	Grick alpha
+'../dnd/monstres.php?vo=griffon''../dnd/monstres.php?vo=griffon'	Griffon
+'../dnd/monstres.php?vo=grimlock''../dnd/monstres.php?vo=grimlock'	Grimlock
+'../dnd/monstres.php?vo=guard''../dnd/monstres.php?vo=guard'	Guard
+'../dnd/monstres.php?vo=guardian-naga''../dnd/monstres.php?vo=guardian-naga'	Guardian Naga
+'../dnd/monstres.php?vo=gynosphinx''../dnd/monstres.php?vo=gynosphinx'	Gynosphinx
+'../dnd/monstres.php?vo=half-ogre''../dnd/monstres.php?vo=half-ogre'	Half-Ogre
+'../dnd/monstres.php?vo=half-red-dragon-veteran''../dnd/monstres.php?vo=half-red-dragon-veteran'	Half-Red Dragon Veteran
+'../dnd/monstres.php?vo=harpy''../dnd/monstres.php?vo=harpy'	Harpy
+'../dnd/monstres.php?vo=hawk''../dnd/monstres.php?vo=hawk'	Hawk
+'../dnd/monstres.php?vo=hell-hound''../dnd/monstres.php?vo=hell-hound'	Hell Hound
+'../dnd/monstres.php?vo=helmed-horror''../dnd/monstres.php?vo=helmed-horror'	Helmed Horror
+'../dnd/monstres.php?vo=hezrou''../dnd/monstres.php?vo=hezrou'	Hezrou
+'../dnd/monstres.php?vo=hill-giant''../dnd/monstres.php?vo=hill-giant'	Hill Giant
+'../dnd/monstres.php?vo=hippogriff''../dnd/monstres.php?vo=hippogriff'	Hippogriff
+'../dnd/monstres.php?vo=hobgoblin''../dnd/monstres.php?vo=hobgoblin'	Hobgoblin
+'../dnd/monstres.php?vo=hobgoblin-captain''../dnd/monstres.php?vo=hobgoblin-captain'	Hobgoblin Captain
+'../dnd/monstres.php?vo=hobgoblin-warlord''../dnd/monstres.php?vo=hobgoblin-warlord'	Hobgoblin Warlord
+'../dnd/monstres.php?vo=homunculus''../dnd/monstres.php?vo=homunculus'	Homunculus
+'../dnd/monstres.php?vo=hook-horror''../dnd/monstres.php?vo=hook-horror'	Hook Horror
+'../dnd/monstres.php?vo=horned-devil''../dnd/monstres.php?vo=horned-devil'	Horned Devil
+'../dnd/monstres.php?vo=hunter-shark''../dnd/monstres.php?vo=hunter-shark'	Hunter Shark
+'../dnd/monstres.php?vo=hydra''../dnd/monstres.php?vo=hydra'	Hydra
+'../dnd/monstres.php?vo=hyena''../dnd/monstres.php?vo=hyena'	Hyena
+'../dnd/monstres.php?vo=ice-devil''../dnd/monstres.php?vo=ice-devil'	Ice Devil
+'../dnd/monstres.php?vo=ice-mephit''../dnd/monstres.php?vo=ice-mephit'	Ice Mephit
+'../dnd/monstres.php?vo=imp''../dnd/monstres.php?vo=imp'	Imp
+'../dnd/monstres.php?vo=intellect-devourer''../dnd/monstres.php?vo=intellect-devourer'	Intellect Devourer
+'../dnd/monstres.php?vo=invisible-stalker''../dnd/monstres.php?vo=invisible-stalker'	Invisible Stalker
+'../dnd/monstres.php?vo=iron-golem''../dnd/monstres.php?vo=iron-golem'	Iron Golem
+'../dnd/monstres.php?vo=jackal''../dnd/monstres.php?vo=jackal'	Jackal
+'../dnd/monstres.php?vo=jackalwere''../dnd/monstres.php?vo=jackalwere'	Jackalwere
+'../dnd/monstres.php?vo=kenku''../dnd/monstres.php?vo=kenku'	Kenku
+'../dnd/monstres.php?vo=killer-whale''../dnd/monstres.php?vo=killer-whale'	Killer Whale
+'../dnd/monstres.php?vo=knight''../dnd/monstres.php?vo=knight'	Knight
+'../dnd/monstres.php?vo=kobold''../dnd/monstres.php?vo=kobold'	Kobold
+'../dnd/monstres.php?vo=kraken''../dnd/monstres.php?vo=kraken'	Kraken
+'../dnd/monstres.php?vo=kuo-toa''../dnd/monstres.php?vo=kuo-toa'	Kuo-toa
+'../dnd/monstres.php?vo=kuo-toa-archpriest''../dnd/monstres.php?vo=kuo-toa-archpriest'	Kuo-toa Archpriest
+'../dnd/monstres.php?vo=kuo-toa-whip''../dnd/monstres.php?vo=kuo-toa-whip'	Kuo-toa Whip
+'../dnd/monstres.php?vo=lamia''../dnd/monstres.php?vo=lamia'	Lamia
+'../dnd/monstres.php?vo=lemure''../dnd/monstres.php?vo=lemure'	Lemure
+'../dnd/monstres.php?vo=lich''../dnd/monstres.php?vo=lich'	Lich
+'../dnd/monstres.php?vo=lion''../dnd/monstres.php?vo=lion'	Lion
+'../dnd/monstres.php?vo=lizard''../dnd/monstres.php?vo=lizard'	Lizard
+'../dnd/monstres.php?vo=lizard-king-queen''../dnd/monstres.php?vo=lizard-king-queen'	Lizard King/Queen
+'../dnd/monstres.php?vo=lizardfolk''../dnd/monstres.php?vo=lizardfolk'	Lizardfolk
+'../dnd/monstres.php?vo=lizardfolk-shaman''../dnd/monstres.php?vo=lizardfolk-shaman'	Lizardfolk Shaman
+'../dnd/monstres.php?vo=mage''../dnd/monstres.php?vo=mage'	Mage
+'../dnd/monstres.php?vo=magma-mephit''../dnd/monstres.php?vo=magma-mephit'	Magma Mephit
+'../dnd/monstres.php?vo=magmin''../dnd/monstres.php?vo=magmin'	Magmin
+'../dnd/monstres.php?vo=mammoth''../dnd/monstres.php?vo=mammoth'	Mammoth
+'../dnd/monstres.php?vo=manes''../dnd/monstres.php?vo=manes'	Manes
+'../dnd/monstres.php?vo=manticore''../dnd/monstres.php?vo=manticore'	Manticore
+'../dnd/monstres.php?vo=marid''../dnd/monstres.php?vo=marid'	Marid
+'../dnd/monstres.php?vo=marilith''../dnd/monstres.php?vo=marilith'	Marilith
+'../dnd/monstres.php?vo=mastiff''../dnd/monstres.php?vo=mastiff'	Mastiff
+'../dnd/monstres.php?vo=medusa''../dnd/monstres.php?vo=medusa'	Medusa
+'../dnd/monstres.php?vo=merfolk''../dnd/monstres.php?vo=merfolk'	Merfolk
+'../dnd/monstres.php?vo=merrow''../dnd/monstres.php?vo=merrow'	Merrow
+'../dnd/monstres.php?vo=mezzoloth''../dnd/monstres.php?vo=mezzoloth'	Mezzoloth
+'../dnd/monstres.php?vo=mimic''../dnd/monstres.php?vo=mimic'	Mimic
+'../dnd/monstres.php?vo=mind-flayer''../dnd/monstres.php?vo=mind-flayer'	Mind Flayer
+'../dnd/monstres.php?vo=minotaur''../dnd/monstres.php?vo=minotaur'	Minotaur
+'../dnd/monstres.php?vo=minotaur-skeleton''../dnd/monstres.php?vo=minotaur-skeleton'	Minotaur Skeleton
+'../dnd/monstres.php?vo=monodrone''../dnd/monstres.php?vo=monodrone'	Monodrone
+'../dnd/monstres.php?vo=mud-mephit''../dnd/monstres.php?vo=mud-mephit'	Mud Mephit
+'../dnd/monstres.php?vo=mule''../dnd/monstres.php?vo=mule'	Mule
+'../dnd/monstres.php?vo=mummy''../dnd/monstres.php?vo=mummy'	Mummy
+'../dnd/monstres.php?vo=mummy-lord''../dnd/monstres.php?vo=mummy-lord'	Mummy Lord
+'../dnd/monstres.php?vo=myconid-adult''../dnd/monstres.php?vo=myconid-adult'	Myconid Adult
+'../dnd/monstres.php?vo=myconid-sovereign''../dnd/monstres.php?vo=myconid-sovereign'	Myconid Sovereign
+'../dnd/monstres.php?vo=myconid-sprout''../dnd/monstres.php?vo=myconid-sprout'	Myconid Sprout
+'../dnd/monstres.php?vo=nalfeshnee''../dnd/monstres.php?vo=nalfeshnee'	Nalfeshnee
+'../dnd/monstres.php?vo=needle-blight''../dnd/monstres.php?vo=needle-blight'	Needle Blight
+'../dnd/monstres.php?vo=night-hag''../dnd/monstres.php?vo=night-hag'	Night Hag
+'../dnd/monstres.php?vo=nightmare''../dnd/monstres.php?vo=nightmare'	Nightmare
+'../dnd/monstres.php?vo=noble''../dnd/monstres.php?vo=noble'	Noble
+'../dnd/monstres.php?vo=nothic''../dnd/monstres.php?vo=nothic'	Nothic
+'../dnd/monstres.php?vo=nycaloth''../dnd/monstres.php?vo=nycaloth'	Nycaloth
+'../dnd/monstres.php?vo=ochre-jelly''../dnd/monstres.php?vo=ochre-jelly'	Ochre Jelly
+'../dnd/monstres.php?vo=octopus''../dnd/monstres.php?vo=octopus'	Octopus
+'../dnd/monstres.php?vo=ogre''../dnd/monstres.php?vo=ogre'	Ogre
+'../dnd/monstres.php?vo=ogre-zombie''../dnd/monstres.php?vo=ogre-zombie'	Ogre Zombie
+'../dnd/monstres.php?vo=oni''../dnd/monstres.php?vo=oni'	Oni
+'../dnd/monstres.php?vo=orc''../dnd/monstres.php?vo=orc'	Orc
+'../dnd/monstres.php?vo=orc-eye-of-gruumsh''../dnd/monstres.php?vo=orc-eye-of-gruumsh'	Orc Eye of Gruumsh
+'../dnd/monstres.php?vo=orc-war-chief''../dnd/monstres.php?vo=orc-war-chief'	Orc War Chief
+'../dnd/monstres.php?vo=orog''../dnd/monstres.php?vo=orog'	Orog
+'../dnd/monstres.php?vo=otyugh''../dnd/monstres.php?vo=otyugh'	Otyugh
+'../dnd/monstres.php?vo=owl''../dnd/monstres.php?vo=owl'	Owl
+'../dnd/monstres.php?vo=owlbear''../dnd/monstres.php?vo=owlbear'	Owlbear
+'../dnd/monstres.php?vo=panther''../dnd/monstres.php?vo=panther'	Panther
+'../dnd/monstres.php?vo=pegasus''../dnd/monstres.php?vo=pegasus'	Pegasus
+'../dnd/monstres.php?vo=pentadrone''../dnd/monstres.php?vo=pentadrone'	Pentadrone
+'../dnd/monstres.php?vo=peryton''../dnd/monstres.php?vo=peryton'	Peryton
+'../dnd/monstres.php?vo=phase-spider''../dnd/monstres.php?vo=phase-spider'	Phase Spider
+'../dnd/monstres.php?vo=piercer''../dnd/monstres.php?vo=piercer'	Piercer
+'../dnd/monstres.php?vo=pit-fiend''../dnd/monstres.php?vo=pit-fiend'	Pit Fiend
+'../dnd/monstres.php?vo=pixie''../dnd/monstres.php?vo=pixie'	Pixie
+'../dnd/monstres.php?vo=planetar''../dnd/monstres.php?vo=planetar'	Planetar
+'../dnd/monstres.php?vo=plesiosaurus''../dnd/monstres.php?vo=plesiosaurus'	Plesiosaurus
+'../dnd/monstres.php?vo=poisonous-snake''../dnd/monstres.php?vo=poisonous-snake'	Poisonous Snake
+'../dnd/monstres.php?vo=polar-bear''../dnd/monstres.php?vo=polar-bear'	Polar Bear
+'../dnd/monstres.php?vo=pony''../dnd/monstres.php?vo=pony'	Pony
+'../dnd/monstres.php?vo=priest''../dnd/monstres.php?vo=priest'	Priest
+'../dnd/monstres.php?vo=pseudodragon''../dnd/monstres.php?vo=pseudodragon'	Pseudodragon
+'../dnd/monstres.php?vo=pteranodon''../dnd/monstres.php?vo=pteranodon'	Pteranodon
+'../dnd/monstres.php?vo=purple-worm''../dnd/monstres.php?vo=purple-worm'	Purple Worm
+'../dnd/monstres.php?vo=quadrone''../dnd/monstres.php?vo=quadrone'	Quadrone
+'../dnd/monstres.php?vo=quaggoth''../dnd/monstres.php?vo=quaggoth'	Quaggoth
+'../dnd/monstres.php?vo=quaggoth-spore-servant''../dnd/monstres.php?vo=quaggoth-spore-servant'	Quaggoth Spore Servant
+'../dnd/monstres.php?vo=quasit''../dnd/monstres.php?vo=quasit'	Quasit
+'../dnd/monstres.php?vo=quipper''../dnd/monstres.php?vo=quipper'	Quipper
+'../dnd/monstres.php?vo=rakshasa''../dnd/monstres.php?vo=rakshasa'	Rakshasa
+'../dnd/monstres.php?vo=rat''../dnd/monstres.php?vo=rat'	Rat
+'../dnd/monstres.php?vo=raven''../dnd/monstres.php?vo=raven'	Raven
+'../dnd/monstres.php?vo=red-dragon-wyrmling''../dnd/monstres.php?vo=red-dragon-wyrmling'	Red Dragon Wyrmling
+'../dnd/monstres.php?vo=red-slaad''../dnd/monstres.php?vo=red-slaad'	Red Slaad
+'../dnd/monstres.php?vo=reef-shark''../dnd/monstres.php?vo=reef-shark'	Reef Shark
+'../dnd/monstres.php?vo=remorhaz''../dnd/monstres.php?vo=remorhaz'	Remorhaz
+'../dnd/monstres.php?vo=revenant''../dnd/monstres.php?vo=revenant'	Revenant
+'../dnd/monstres.php?vo=rhinoceros''../dnd/monstres.php?vo=rhinoceros'	Rhinoceros
+'../dnd/monstres.php?vo=riding-horse''../dnd/monstres.php?vo=riding-horse'	Riding Horse
+'../dnd/monstres.php?vo=roc''../dnd/monstres.php?vo=roc'	Roc
+'../dnd/monstres.php?vo=roper''../dnd/monstres.php?vo=roper'	Roper
+'../dnd/monstres.php?vo=rug-of-smothering''../dnd/monstres.php?vo=rug-of-smothering'	Rug of Smothering
+'../dnd/monstres.php?vo=rust-monster''../dnd/monstres.php?vo=rust-monster'	Rust Monster
+'../dnd/monstres.php?vo=saber-toothed-tiger''../dnd/monstres.php?vo=saber-toothed-tiger'	Saber-Toothed Tiger
+'../dnd/monstres.php?vo=sahuagin''../dnd/monstres.php?vo=sahuagin'	Sahuagin
+'../dnd/monstres.php?vo=sahuagin-baron''../dnd/monstres.php?vo=sahuagin-baron'	Sahuagin Baron
+'../dnd/monstres.php?vo=sahuagin-priestess''../dnd/monstres.php?vo=sahuagin-priestess'	Sahuagin Priestess
+'../dnd/monstres.php?vo=salamander''../dnd/monstres.php?vo=salamander'	Salamander
+'../dnd/monstres.php?vo=satyr''../dnd/monstres.php?vo=satyr'	Satyr
+'../dnd/monstres.php?vo=scarecrow''../dnd/monstres.php?vo=scarecrow'	Scarecrow
+'../dnd/monstres.php?vo=scorpion''../dnd/monstres.php?vo=scorpion'	Scorpion
+'../dnd/monstres.php?vo=scout''../dnd/monstres.php?vo=scout'	Scout
+'../dnd/monstres.php?vo=sea-hag''../dnd/monstres.php?vo=sea-hag'	Sea Hag
+'../dnd/monstres.php?vo=sea-horse''../dnd/monstres.php?vo=sea-horse'	Sea Horse
+'../dnd/monstres.php?vo=shadow''../dnd/monstres.php?vo=shadow'	Shadow
+'../dnd/monstres.php?vo=shadow-demon''../dnd/monstres.php?vo=shadow-demon'	Shadow Demon
+'../dnd/monstres.php?vo=shambling-mound''../dnd/monstres.php?vo=shambling-mound'	Shambling Mound
+'../dnd/monstres.php?vo=shield-guardian''../dnd/monstres.php?vo=shield-guardian'	Shield Guardian
+'../dnd/monstres.php?vo=shrieker''../dnd/monstres.php?vo=shrieker'	Shrieker
+'../dnd/monstres.php?vo=silver-dragon-wyrmling''../dnd/monstres.php?vo=silver-dragon-wyrmling'	Silver Dragon Wyrmling
+'../dnd/monstres.php?vo=skeleton''../dnd/monstres.php?vo=skeleton'	Skeleton
+'../dnd/monstres.php?vo=slaad-tadpole''../dnd/monstres.php?vo=slaad-tadpole'	Slaad Tadpole
+'../dnd/monstres.php?vo=smoke-mephit''../dnd/monstres.php?vo=smoke-mephit'	Smoke Mephit
+'../dnd/monstres.php?vo=solar''../dnd/monstres.php?vo=solar'	Solar
+'../dnd/monstres.php?vo=spectator''../dnd/monstres.php?vo=spectator'	Spectator
+'../dnd/monstres.php?vo=specter''../dnd/monstres.php?vo=specter'	Specter
+'../dnd/monstres.php?vo=spider''../dnd/monstres.php?vo=spider'	Spider
+'../dnd/monstres.php?vo=spined-devil''../dnd/monstres.php?vo=spined-devil'	Spined Devil
+'../dnd/monstres.php?vo=spirit-naga''../dnd/monstres.php?vo=spirit-naga'	Spirit Naga
+'../dnd/monstres.php?vo=sprite''../dnd/monstres.php?vo=sprite'	Sprite
+'../dnd/monstres.php?vo=spy''../dnd/monstres.php?vo=spy'	Spy
+'../dnd/monstres.php?vo=steam-mephit''../dnd/monstres.php?vo=steam-mephit'	Steam Mephit
+'../dnd/monstres.php?vo=stirge''../dnd/monstres.php?vo=stirge'	Stirge
+'../dnd/monstres.php?vo=stone-giant''../dnd/monstres.php?vo=stone-giant'	Stone Giant
+'../dnd/monstres.php?vo=stone-golem''../dnd/monstres.php?vo=stone-golem'	Stone Golem
+'../dnd/monstres.php?vo=storm-giant''../dnd/monstres.php?vo=storm-giant'	Storm Giant
+'../dnd/monstres.php?vo=succubus''../dnd/monstres.php?vo=succubus'	Succubus
+'../dnd/monstres.php?vo=swarm-of-bats''../dnd/monstres.php?vo=swarm-of-bats'	Swarm of Bats
+'../dnd/monstres.php?vo=swarm-of-insects''../dnd/monstres.php?vo=swarm-of-insects'	Swarm of Insects
+'../dnd/monstres.php?vo=swarm-of-poisonous-snakes''../dnd/monstres.php?vo=swarm-of-poisonous-snakes'	Swarm of Poisonous Snakes
+'../dnd/monstres.php?vo=swarm-of-quippers''../dnd/monstres.php?vo=swarm-of-quippers'	Swarm of Quippers
+'../dnd/monstres.php?vo=swarm-of-rats''../dnd/monstres.php?vo=swarm-of-rats'	Swarm of Rats
+'../dnd/monstres.php?vo=swarm-of-ravens''../dnd/monstres.php?vo=swarm-of-ravens'	Swarm of Ravens
+'../dnd/monstres.php?vo=tarrasque''../dnd/monstres.php?vo=tarrasque'	Tarrasque
+'../dnd/monstres.php?vo=thri-kreen''../dnd/monstres.php?vo=thri-kreen'	Thri-kreen
+'../dnd/monstres.php?vo=thug''../dnd/monstres.php?vo=thug'	Thug
+'../dnd/monstres.php?vo=tiger''../dnd/monstres.php?vo=tiger'	Tiger
+'../dnd/monstres.php?vo=treant''../dnd/monstres.php?vo=treant'	Treant
+'../dnd/monstres.php?vo=tribal-warrior''../dnd/monstres.php?vo=tribal-warrior'	Tribal Warrior
+'../dnd/monstres.php?vo=triceratops''../dnd/monstres.php?vo=triceratops'	Triceratops
+'../dnd/monstres.php?vo=tridrone''../dnd/monstres.php?vo=tridrone'	Tridrone
+'../dnd/monstres.php?vo=troglodyte''../dnd/monstres.php?vo=troglodyte'	Troglodyte
+'../dnd/monstres.php?vo=troll''../dnd/monstres.php?vo=troll'	Troll
+'../dnd/monstres.php?vo=twig-blight''../dnd/monstres.php?vo=twig-blight'	Twig Blight
+'../dnd/monstres.php?vo=tyrannosaurus-rex''../dnd/monstres.php?vo=tyrannosaurus-rex'	Tyrannosaurus Rex
+'../dnd/monstres.php?vo=ultroloth''../dnd/monstres.php?vo=ultroloth'	Ultroloth
+'../dnd/monstres.php?vo=umber-hulk''../dnd/monstres.php?vo=umber-hulk'	Umber Hulk
+'../dnd/monstres.php?vo=unicorn''../dnd/monstres.php?vo=unicorn'	Unicorn
+'../dnd/monstres.php?vo=vampire''../dnd/monstres.php?vo=vampire'	Vampire
+'../dnd/monstres.php?vo=vampire-spawn''../dnd/monstres.php?vo=vampire-spawn'	Vampire Spawn
+'../dnd/monstres.php?vo=veteran''../dnd/monstres.php?vo=veteran'	Veteran
+'../dnd/monstres.php?vo=vine-blight''../dnd/monstres.php?vo=vine-blight'	Vine Blight
+'../dnd/monstres.php?vo=violet-fungus''../dnd/monstres.php?vo=violet-fungus'	Violet Fungus
+'../dnd/monstres.php?vo=vrock''../dnd/monstres.php?vo=vrock'	Vrock
+'../dnd/monstres.php?vo=vulture''../dnd/monstres.php?vo=vulture'	Vulture
+'../dnd/monstres.php?vo=warhorse''../dnd/monstres.php?vo=warhorse'	Warhorse
+'../dnd/monstres.php?vo=warhorse-skeleton''../dnd/monstres.php?vo=warhorse-skeleton'	Warhorse Skeleton
+'../dnd/monstres.php?vo=water-elemental''../dnd/monstres.php?vo=water-elemental'	Water Elemental
+'../dnd/monstres.php?vo=water-weird''../dnd/monstres.php?vo=water-weird'	Water Weird
+'../dnd/monstres.php?vo=weasel''../dnd/monstres.php?vo=weasel'	Weasel
+'../dnd/monstres.php?vo=werebear''../dnd/monstres.php?vo=werebear'	Werebear
+'../dnd/monstres.php?vo=wereboar''../dnd/monstres.php?vo=wereboar'	Wereboar
+'../dnd/monstres.php?vo=wererat''../dnd/monstres.php?vo=wererat'	Wererat
+'../dnd/monstres.php?vo=weretiger''../dnd/monstres.php?vo=weretiger'	Weretiger
+'../dnd/monstres.php?vo=werewolf''../dnd/monstres.php?vo=werewolf'	Werewolf
+'../dnd/monstres.php?vo=white-dragon-wyrmling''../dnd/monstres.php?vo=white-dragon-wyrmling'	White Dragon Wyrmling
+'../dnd/monstres.php?vo=wight''../dnd/monstres.php?vo=wight'	Wight
+'../dnd/monstres.php?vo=will-o--wisp''../dnd/monstres.php?vo=will-o--wisp'	Will-o'-Wisp
+'../dnd/monstres.php?vo=winged-kobold''../dnd/monstres.php?vo=winged-kobold'	Winged Kobold
+'../dnd/monstres.php?vo=winter-wolf''../dnd/monstres.php?vo=winter-wolf'	Winter Wolf
+'../dnd/monstres.php?vo=wolf''../dnd/monstres.php?vo=wolf'	Wolf
+'../dnd/monstres.php?vo=worg''../dnd/monstres.php?vo=worg'	Worg
+'../dnd/monstres.php?vo=wraith''../dnd/monstres.php?vo=wraith'	Wraith
+'../dnd/monstres.php?vo=wyvern''../dnd/monstres.php?vo=wyvern'	Wyvern
+'../dnd/monstres.php?vo=xorn''../dnd/monstres.php?vo=xorn'	Xorn
+'../dnd/monstres.php?vo=yeti''../dnd/monstres.php?vo=yeti'	Yeti
+'../dnd/monstres.php?vo=yochlol''../dnd/monstres.php?vo=yochlol'	Yochlol
+'../dnd/monstres.php?vo=young-black-dragon''../dnd/monstres.php?vo=young-black-dragon'	Young Black Dragon
+'../dnd/monstres.php?vo=young-blue-dragon''../dnd/monstres.php?vo=young-blue-dragon'	Young Blue Dragon
+'../dnd/monstres.php?vo=young-brass-dragon''../dnd/monstres.php?vo=young-brass-dragon'	Young Brass Dragon
+'../dnd/monstres.php?vo=young-bronze-dragon''../dnd/monstres.php?vo=young-bronze-dragon'	Young Bronze Dragon
+'../dnd/monstres.php?vo=young-copper-dragon''../dnd/monstres.php?vo=young-copper-dragon'	Young Copper Dragon
+'../dnd/monstres.php?vo=young-gold-dragon''../dnd/monstres.php?vo=young-gold-dragon'	Young Gold Dragon
+'../dnd/monstres.php?vo=young-green-dragon''../dnd/monstres.php?vo=young-green-dragon'	Young Green Dragon
+'../dnd/monstres.php?vo=young-red-dragon''../dnd/monstres.php?vo=young-red-dragon'	Young Red Dragon
+'../dnd/monstres.php?vo=young-red-shadow-dragon''../dnd/monstres.php?vo=young-red-shadow-dragon'	Young Red Shadow Dragon
+'../dnd/monstres.php?vo=young-remorhaz''../dnd/monstres.php?vo=young-remorhaz'	Young Remorhaz
+'../dnd/monstres.php?vo=young-silver-dragon''../dnd/monstres.php?vo=young-silver-dragon'	Young Silver Dragon
+'../dnd/monstres.php?vo=young-white-dragon''../dnd/monstres.php?vo=young-white-dragon'	Young White Dragon
+'../dnd/monstres.php?vo=yuan-ti-abomination''../dnd/monstres.php?vo=yuan-ti-abomination'	Yuan-ti Abomination
+'../dnd/monstres.php?vo=yuan-ti-malison''../dnd/monstres.php?vo=yuan-ti-malison'	Yuan-ti Malison
+'../dnd/monstres.php?vo=yuan-ti-pureblood''../dnd/monstres.php?vo=yuan-ti-pureblood'	Yuan-ti Pureblood
+'../dnd/monstres.php?vo=zombie''../dnd/monstres.php?vo=zombie'	Zombie
