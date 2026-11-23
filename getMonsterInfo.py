@@ -94,10 +94,7 @@ def getMonsterInfo(monster):
                         "WIS":0,
                         "CHA":0}
                     },
-                "Attacks":{
-                    "Melee":[],
-                    "Ranged":[]
-                },
+                "Attacks":[],
                 "Spells":[],
                 "Spell Save DC": 0,
                 "Spell Slots":[],
@@ -108,6 +105,7 @@ def getMonsterInfo(monster):
         passedCR = False
         passedSpellCasting = False
         passedActions = False
+        action = {}
         for i in range(len(nonBlank)):
             section = nonBlank[i]
             if i > 0:
@@ -149,9 +147,52 @@ def getMonsterInfo(monster):
                 #TODO: parse special traits
             #elif passedSpellCasting and not passedActions:
                 #TODO: parse spells
-            #elif passedActions:
+            elif passedActions:
                 #TODO: parse actions
+                if "to hit" in section:
+                    if len(action) > 0:
+                        stats["Attacks"] += [action]
+                    action = {
+                                "Hit Bonus": 0,
+                                "Damage":{"Die": 0,
+                                          "Dice Count": 0,
+                                          "Bonus":0,
+                                          "Type":0},
+                                "Range" : 0,
+                                "Long Range": 0,
+                                "Targets" : "",
+                                "Other":[]
+                            }
+                    action["Hit Bonus"] = int(section[section.find("+") + 1:section.find("to hit")].strip())
+                    if "reach" in section:
+                        action["Range"] = int(section[section.find("reach") + 5: section.find("ft")].strip())
+                        action["Long Range"] = action["Range"]
+                    elif "range" in section:
+                        rangeSection = section[section.find("range") + 5: section.find("ft")].strip()
+                        action["Range"] =  int(rangeSection[:rangeSection.find("/")])
 
+                        action["Long Range"] = int(rangeSection[rangeSection.find("/") + 1:])
+                    if "one target" in section:
+                        action["Targets"] = "1"
+                    # TODO: Add other target registers
+                if section == "Hit":
+                    if i < len(nonBlank) - 1:
+                        damageSection = nonBlank[i + 1]
+                        damageSection = damageSection[damageSection.find("(") + 1:]
+                        action["Damage"]["Dice Count"] = int(damageSection[:damageSection.find("d")])
+                        if "+" in damageSection:
+                            
+                            action["Damage"]["Die"] = damageSection[damageSection.find("d") + 1:damageSection.find("+")]
+                            action["Damage"]["Bonus"] = int(damageSection[damageSection.find("+") + 1:damageSection.find(")")])
+                        else:
+                            action["Damage"]["Die"] = damageSection[damageSection.find("d") + 1:damageSection.find(")")]\
+                            
+                        damageSection = damageSection[damageSection.find(")") + 1:]
+                        #TODO: account for abnormal add on effects
+                #if newAction:
+        if len(action) > 0:
+            stats["Attacks"] += [action]
+                
 
         return stats
     else:
